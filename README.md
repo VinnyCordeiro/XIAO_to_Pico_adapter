@@ -2,7 +2,7 @@
 
 ![plot](./image/XIAO_to_Pico_adapter.png)
 
-This PCB is a simple adapter to use the Raspberry Pi Pico on the ERCF Easy Board instead of the originally used Seeeduino XIAO.
+This PCB is a simple adapter to use the Raspberry Pi Pico on the [ERCF Easy Board](https://github.com/Tircown/ERCF-easy-brd) instead of the originally used Seeeduino XIAO.
 
 ### Usage:
 
